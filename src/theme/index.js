@@ -149,7 +149,7 @@ export default {
         '40px',
         '52px',
         '60px',
-        '48px',
+        '41px',
         '52px',
         '60px',
         '66px',

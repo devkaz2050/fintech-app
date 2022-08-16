@@ -12,25 +12,25 @@ const data = [
     id: 1,
     imgSrc: Vector,
     altText: 'Vector',
-    title: 'Vector Editing',
+    title: 'Acceptance of payments',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'For your customers - fast online and offline payments in favor of thousands of providers and instant loan repayment..',
   },
   {
     id: 2,
     imgSrc: Editing,
     altText: 'Monitoring',
-    title: 'Customize & Monitoring',
+    title: 'Mass Payouts',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Direct payments to any number of individuals: to bank cards, Wallet, phone balance or in cash..',
   },
   {
     id: 3,
     imgSrc: Speed,
     altText: 'Quality',
-    title: 'Quality & Short-period',
+    title: 'Issuance of Cards',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Payment cards for your financial products and loyalty programs: virtual and contactless.',
   },
 ];
 

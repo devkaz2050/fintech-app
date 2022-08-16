@@ -17,7 +17,7 @@ const data = [
     altText: 'Smart',
     title: 'Smart Features',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'Our feature rich platform helps your business to reach greater heights.',
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const data = [
     altText: 'Performance',
     title: 'Fast Performance',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'Accept payments easily and order in advance your products.',
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const data = [
     altText: 'Content',
     title: 'Unlimited Content',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'Start paying any merchant by scanning QR code which will take less than few seconds.',
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ const data = [
     altText: 'Customization',
     title: 'Unlimited Customization',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'Accept payments easily and order in advance your products.',
   },
   {
     id: 5,
@@ -49,7 +49,7 @@ const data = [
     altText: 'Productivity',
     title: 'Boost Productivity',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      'Start paying any merchant by scanning QR code which will take less than few seconds..',
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ const data = [
     altText: 'Support',
     title: 'Customer Support',
     text:
-      'Get your blood tests delivered at let home collect sample from the victory of the managements.',
+      ' We are available to assist you at any day and at any time.',
   },
 ];
 
@@ -67,7 +67,7 @@ export default function Feature() {
       <Container>
         <SectionHeader
           slogan="Quality features"
-          title="Meet exciting feature of app"
+          title="E-wallet Mobile Applications"
         />
 
         <Grid sx={styles.grid}>

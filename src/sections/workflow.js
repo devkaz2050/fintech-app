@@ -12,25 +12,25 @@ const data = [
     id: 1,
     title: 'Set disbursement Instructions',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'You will have a personal account and a personal manager who will help you during and after connection.',
   },
   {
     id: 2,
     title: 'Assembly retrieves funds from your account',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Set up acceptance of payments in test mode and make sure that it works correctly..',
   },
   {
     id: 3,
     title: 'Assembly initiates disbursement',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'The payment link is generated in personal account, send the invoice by e-mail, messenger or SMS.',
   },
   {
     id: 4,
     title: 'Customer receives funds payment',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Built-in payment form widget in your corporate style. An example of the payment form of the Life Line fund',
   },
 ];
 

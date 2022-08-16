@@ -6,10 +6,10 @@ import Image from 'components/image';
 import Partner from 'assets/partner.png';
 
 const data = {
-  subTitle: 'Core features',
-  title: 'Smart Jackpots that you may love this anytime & anywhere',
+  subTitle: 'Developer features',
+  title: 'Developer Friendly API To Integrate',
   description:
-    'Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever. Get your tests delivered at let home collect sample.',
+    'Good practices are provided for making your API friendly to integrate and appealing to developers, encouraging growth and development for your platform.',
   btnName: 'Get Started',
   btnURL: '#',
 };

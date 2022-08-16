@@ -11,7 +11,7 @@ const data = {
   subTitle: 'PAYMENT SECURITY',
   title: 'Secure Payment Transaction System with #1 Ranking',
   description:
-    'Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever. Get your tests delivered at let home collect sample.',
+    'We offer our digital wallet platform with a fast, affordable, and secure way of transaction for our merchants and to accept, disburse payments, and enrich their business online.',
   btnName: 'Learn More',
   btnURL: '#',
 };

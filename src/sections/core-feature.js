@@ -9,7 +9,7 @@ import Secure from 'assets/core-feature/secure.svg';
 
 const data = {
   subTitle: 'Core features',
-  title: 'Smart Jackpots that you may love this anytime & anywhere',
+  title: 'Make The World A Better Place With E Wallet.',
   features: [
     {
       id: 1,
@@ -17,7 +17,7 @@ const data = {
       altText: 'Smart Features',
       title: 'Smart Features',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Our feature rich platform helps your business to reach greater height',
     },
     {
       id: 2,
@@ -25,7 +25,7 @@ const data = {
       altText: 'Secure Contents',
       title: 'Secure Contents',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Manage all the business transactions on your palm by having your own e-wallet application.',
     },
   ],
 };
